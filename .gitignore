@@ -1,14 +1,2 @@
-# ======================
-# CSharp
-# ======================
-csharp/**/bin/
-csharp/**/obj/
-
-# ======================
-# Rust
-# ======================
-rust/**/target/
-rust/**/.vscode/
-rust/**/*.rs.bk
-
-rust/**/Cargo.lock
+**/bin/
+**/obj/
