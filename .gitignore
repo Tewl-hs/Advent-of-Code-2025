@@ -1,4 +1,5 @@
 **/bin/
 **/obj/
-**/input.txt
 .vs/
+**/input.txt
+*/**/input.txt
