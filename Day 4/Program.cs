@@ -45,7 +45,7 @@ static (int removed, char[][] nextGrid) GetValidRolls(char[][] grid)
 
                 if (count < 4)
                 {
-                    next[r][c] = '.'; // Remove role for in copy
+                    next[r][c] = '.'; // Remove roll in copy
                     removed++;
                 }
             }
