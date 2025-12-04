@@ -55,7 +55,7 @@ static (int removed, char[][] nextGrid) GetValidRolls(char[][] grid)
     return (removed, next);
 }
 
-// For part 1 we only need rolls removed (result)
+// For part 1 we only need rolls removed
 Console.WriteLine(GetValidRolls(grid).removed);
 
 
